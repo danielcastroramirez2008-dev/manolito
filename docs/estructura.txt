@@ -1,0 +1,12 @@
+.:
+docs/
+readme.md
+src/
+
+./docs:
+estructura.txt
+historial.txt
+idea.md
+
+./src:
+app.py
