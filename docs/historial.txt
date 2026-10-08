@@ -1,0 +1,72 @@
+    1  cd user
+    2  clear
+    3  cd usuarios
+    4  clear
+    5  cd c
+    6  clear
+    7  cd c:users
+    8  cd danie
+    9  cd escritorio
+   10  clear
+   11  C:\Users\danie\Desktop
+   12  cd desktop
+   13  cd elseñordelanoche
+   14  mkdir richardshadow
+   15  cd richardshadow
+   16  mkdir richardexe.txt
+   17  mkdir papusameritus.txt
+   18  mkdir jafarjackson.txt
+   19  clear
+   20  touch papusameritus.txt
+   21  touch richardexe.txt
+   22  touch jafarjackson.txt
+   23  cd ..
+   24  mkdir bonus
+   25  mv richardshadow.txt/ bonus/
+   26  mv richardexe.txt/ bonus/
+   27  cd richardshadow
+   28  mv richardexe.txt  ../bonus
+   29  cd ..
+   30  cd bonus
+   31  mv richardexe.txt / chocobollo.txt
+   32  mcv richardexe.txt  chocobollo
+   33  mv richarexe.txt chocobollo
+   34  mv richardexe.txt chocobollo
+   35  cd ..
+   36  mkdir artistas
+   37  mv richardshadow/ artistas/
+   38  ls
+   39  mdir bonus/
+   40  rmdir bonus/
+   41  rmdir bonus/
+   42  mkdir -p cachama
+   43  mkdir -p / cachama/emperador/
+   44  mkdir -p / cachama/emperador/soponcio
+   45  touch / cachama/emperador/soponcio/desdeelcielocayeroncaguamas.txt
+   46  touch  cachama/emperador/soponcio/desdeelcielocayeroncaguamas.txt
+   47  cd cachama/
+   48  cd emperador/
+   49  cd sopo
+   50  cd soponcio/
+   51  echo "Desde el cielo cayeron caguamasDesde el cielo cayeron caguamasCoca y marihuana, coca y marihuanaCoca y marihuana, y también cristal" > desdeelcielocayeroncaguamas.txt 
+   52  git init
+   53  touch readme.md
+   54  touch .gitignore
+   55  mkdir docs
+   56  cd docs
+   57  touch estructura.txt
+   58  touch idea.md
+   59  touch historial.txt
+   60  cd ..
+   61  mkdir src 
+   62  cd src
+   63  touch app.py
+   64  cd ..
+   65  git add .
+   66  git commit -m "subiendo los archivos"
+   67  git branch -M main
+   68  git remote add origin https://github.com/danielcastroramirez2008-dev/manolito.git
+   69  git push -u origin main
+   70  ls -R > docs/estructura.txt
+   71  git commit -a -m "ploploplo"
+   72  history > docs/historial.txt
