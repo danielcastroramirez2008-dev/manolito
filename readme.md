@@ -5,3 +5,6 @@ Opera como una franquicia especializada en el diagnóstico, mantenimiento preven
 
 
 NOMBRE:daniel castro
+
+
+funciones: arreglo,mecanica,limpieza
