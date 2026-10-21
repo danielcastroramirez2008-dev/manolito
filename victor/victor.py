@@ -27,11 +27,11 @@
 
 # Tu código aquí:
  
-nombre = "ALEX"
+nombre = "DANIEL"
 años = 17
 estatura = 1.82
 
-print(f"soy {nombre} tengo {17} años y mido {estatura:.2f}")
+print(f"soy {nombre} tengo {18} años y mido {estatura:.2f}")
 
 
 # -------------------------------------------------------------
@@ -181,3 +181,4 @@ print("======================")
 # Este es el primer paso de tu app: en los próximos temas le
 # agregamos el menú, las listas y todo lo demás.
 # =============================================================
+# cccddde
